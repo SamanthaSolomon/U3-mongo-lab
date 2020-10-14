@@ -21,7 +21,7 @@ B. Use find commands to get:
 1. A list of everyone in your class.
 2. An entry for a single person.
 
-C. Create a new database, name it seir526, and create a collection name instructors
+C. Create a collection name instructors
 
 1. Create a single document that can hold the following instructors Joe, Alex, Kenneth, Nathaniel and Aegean; field name should be instructor_list
 2. Remove Nathaniel from the instructors list
